@@ -5,7 +5,7 @@ import './gsap1.css'
 const Gsap1 = () => {
     const container = useRef();
     const circle = useRef();
-  
+  // 
     useGSAP(() => {
         // use selectors...
         gsap.to(".box", { rotation: "+=360", duration: 3 });
@@ -28,3 +28,4 @@ const Gsap1 = () => {
 }
 
 export default Gsap1
+// ljnj;
