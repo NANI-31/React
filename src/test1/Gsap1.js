@@ -28,4 +28,3 @@ const Gsap1 = () => {
 }
 
 export default Gsap1
-// ljnj;
