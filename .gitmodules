@@ -1,0 +1,3 @@
+[submodule "projects/chatting-app/projects/chatting-app/client"]
+	path = projects/chatting-app/projects/chatting-app/client
+	url = https://github.com/NANI-31/React.git
